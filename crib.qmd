@@ -1,0 +1,7 @@
+---
+title: "cRib"
+format: 
+  html:
+    page-layout: article
+    sidebar: false
+---
